@@ -1,0 +1,29 @@
+**Added at 2023-05-21 14:43:38.915152:
+Name: Bacxiu29k
+Brand: Highland
+Year Of Manufacture: 1900
+Type: Cruiser
+Motor ID: 43L-342023
+Distance Traveled: 1560
+Condition: Good
+Status: Ready
+Price per hour: 26000
+--------------------
+**Booked for A210523.4 at 2023-05-21 14:44:00:
+Customer ID: VN-079202039740
+Start at: 05/21/2023 15:00
+End at: 05/21/2023 18:30
+Booking time: 3.5
+Late time: 0
+Status: Booking
+Total: 45500.0
+--------------------
+**Auto updated for A210523.4 at 2023-05-21 15:05:00:
+Status: Booking -> Processing
+Total: 45500.0 -> 0.0
+--------------------
+**Completed A210523.4 at 2023-05-21 15:06:00:
+**Adjusted at 2023-05-21 15:06:00:
+Distance:0 -> 500
+Status: Rented -> Ready
+--------------------

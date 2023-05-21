@@ -1,0 +1,11 @@
+**Added at 2023-05-21 14:56:52.155674:
+Name: APK3
+Brand: Yahaha
+Year Of Manufacture: 2001
+Type: Sport
+Motor ID: 33K2-1231245
+Condition: Good
+Distance Traveled: 50000
+Status: Ready
+Price per hour: 20000
+--------------------

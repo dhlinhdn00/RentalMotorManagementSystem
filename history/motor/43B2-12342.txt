@@ -1,0 +1,27 @@
+**Added at 2023-05-19 16:58:17.967711:
+name: Sicon
+brand: Sicha
+Year Of Manufacture: 2021
+Type: Standard
+Motor ID: 43B2-12342
+Distance Traveled: 1250
+Condition: Good
+Status: Ready
+Price per hour: 25000
+--------------------
+Adjusted at 2023-05-19 16:58:33.252853:Status: Ready -> Serviced--------------------
+Adjusted at 2023-05-19 16:58:35.432036:Status: Serviced -> Ready--------------------
+**Booked at 2023-05-19 18:16:03.221881:
+Booking ID: E190523.3
+Customer ID: VN-0395969901
+Start at: 05/19/2023 18:15
+End at: 05/19/2023 21:45
+Booking time: 3.5
+Late time: 0
+Status: Booking
+Total: 43750.0
+--------------------
+**Auto updated at 2023-05-19 18:20:34.051985:
+Status: Booking -> Processing
+Total: 43750.0 -> 87500.0
+--------------------

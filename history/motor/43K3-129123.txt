@@ -1,0 +1,11 @@
+**Added at 2023-05-21 15:04:54.041541:
+Name: Ceci
+Brand: Lamela
+Year Of Manufacture: 2001
+Type: Scooter
+Motor ID: 43K3-129123
+Condition: Excellent
+Distance Traveled: 500
+Status: Ready
+Price per hour: 25000
+--------------------

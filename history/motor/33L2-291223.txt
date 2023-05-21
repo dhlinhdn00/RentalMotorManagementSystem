@@ -1,0 +1,44 @@
+**Added at 2023-05-20 02:08:49.391706:
+Name: RagonA3
+Brand: BayesNaive
+Year Of Manufacture: 1932
+Type: Adventure
+Motor ID: 33L2-291223
+Distance Traveled: 1290
+Condition: Average
+Status: Ready
+Price per hour: 125000
+--------------------
+**Booked for M200523.3 at 2023-05-20 02:09:41.177197:
+Customer ID: IN-1245215125
+Start at: 05/20/2023 02:11
+End at: 05/20/2023 06:11
+Booking time: 4.0
+Late time: 0
+Status: Booking
+Total: 250000.0
+--------------------
+**Updated for M200523.3 at 2023-05-20 02:10:54.776665:
+Start at:05/20/2023 02:11 -> 05/20/2023 02:55:00
+Booking Time: 4.0 -> 2.0
+Status: Booking -> Booking
+--------------------
+**Updated for M200523.3 at 2023-05-20 02:21:23.640894:
+Start at:5/20/2023 2:55 -> 05/20/2023 02:50
+Booking Time: 2 -> 3.0
+Status: Booking -> Booking
+--------------------
+**Auto updated for M200523.3 at 2023-05-20 03:10:57.756670:
+Status: Booking -> Processing
+Total: 250000.0 -> 375000.0
+--------------------
+**Auto updated for M200523.3 at 2023-05-21 01:01:00:
+Late time:0 -> 19.18
+Status: Processing -> Being Late
+Total: 375000.0 -> 3252000.0
+--------------------
+**Completed M200523.3 at 2023-05-21 02:46:00:
+**Adjusted at 2023-05-21 02:46:00:
+Distance:1290 -> 1790
+Status: Rented -> Ready
+--------------------

@@ -1,0 +1,61 @@
+Booked at 05/19/2023 15:12:
+Booking ID: A190523.1
+Customer ID: VN-048200000654
+Start at: 05/19/2023 15:15
+End at: 05/19/2023 18:15
+Booking time: 3.0
+Status: Booking
+Total: 105000.0
+--------------------
+**Auto updated at 2023-05-19 15:15:14.308207:
+Booking ID: A190523.1
+Customer ID: VN-048200000654
+Start at: 2023-05-19 15:15:00
+End at: 2023-05-19 18:15:00
+Booking time: 3.0
+Status: Processing
+Total: 210000.0
+--------------------
+**Auto updated at 2023-05-19 18:20:34.049992:
+Late time:0 -> 0.08
+Status: Being Late
+Total: 216720.0
+--------------------
+**Auto updated at 2023-05-20 00:00:40.882347:
+Late time:0 -> 5.75
+Status: Being Late
+Total: 3932040.0
+--------------------
+**Auto updated at 2023-05-20 01:07:59.144524:
+Late time:0 -> 6.87
+Status: Processing -> Being Late
+Total: 3449040.0 -> 4026120.0
+--------------------
+**Auto updated for A190523.1 at 2023-05-20 01:11:31.227752:
+Late time:0 -> 6.93
+Status: Processing -> Being Late
+Total: 3449040.0 -> 4031160.0
+--------------------
+**Auto updated for A190523.1 at 2023-05-20 01:14:57.443073:
+Late time:0 -> 6.98
+Status: Processing -> Being Late
+Total: 3449040.0 -> 4035360.0
+--------------------
+**Booked for M210523.2 at 2023-05-21 02:53:00:
+Customer ID: ES-212512561191
+Start at: 05/21/2023 06:00
+End at: 05/21/2023 08:30
+Booking time: 2.5
+Late time: 0
+Status: Booking
+Total: 87500.0
+--------------------
+**Auto updated for M210523.2 at 2023-05-21 14:32:00:
+Status: Booking -> Processing
+Total: 87500.0 -> 175000.0
+--------------------
+**Auto updated for M210523.2 at 2023-05-21 14:36:00:
+Late time:0 -> 6.1
+Status: Processing -> Being Late
+Total: 175000.0 -> 687400.0
+--------------------

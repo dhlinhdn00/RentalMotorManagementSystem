@@ -1,0 +1,25 @@
+Added at 2023-05-19 14:41:18.175301:name: Richa
+brand: Ricon
+Year Of Manufacture: 2023
+Type: Scooter
+Motor ID: 45A3-210831
+Condition: Good
+Status: Ready
+Price per hour: 25000
+--------------------
+Booked at 05/19/2023 15:00:Booking ID: A190523.1
+Customer ID: ES-212512561191
+Start at: 05/19/2023 15:05
+End at: 05/19/2023 17:35
+Booking time: 2.5
+Status: Booking
+Total: 31250.0
+--------------------
+Booked at 2023-05-19 15:05:02.129288:Booking ID: A190523.1
+Customer ID: ES-212512561191
+Start at: 2023-05-19 15:05:00
+End at: 2023-05-19 17:35:00
+Booking time: 2.5
+Status: Booking
+Total: 31250.0
+--------------------

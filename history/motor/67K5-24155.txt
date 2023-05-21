@@ -1,0 +1,44 @@
+**Booked for M210523.1 at 2023-05-21 02:10:00:
+Customer ID: VN-048200000654
+Start at: 05/21/2023 02:30
+End at: 05/21/2023 05:30
+Booking time: 3.0
+Late time: 0
+Status: Booking
+Total: 75000.0
+--------------------
+**Booked for M210523.2 at 2023-05-21 02:10:00:
+Customer ID: US-4539890189019012
+Start at: 05/21/2023 03:00
+End at: 05/21/2023 05:30
+Booking time: 2.5
+Late time: 0
+Status: Booking
+Total: 62500.0
+--------------------
+**Booked for M210523.2 at 2023-05-21 02:20:00:
+Customer ID: IN-1245215125
+Start at: 05/21/2023 08:20
+End at: 05/21/2023 10:50
+Booking time: 2.5
+Late time: 0
+Status: Booking
+Total: 62500.0
+--------------------
+**Auto updated for M210523.1 at 2023-05-21 02:40:00:
+Status: Booking -> Processing
+Total: 75000.0 -> 150000.0
+--------------------
+**Auto updated for M210523.1 at 2023-05-21 02:42:00:
+Status: Booking -> Processing
+Total: 75000.0 -> 150000.0
+--------------------
+**Booked for M210523.2 at 2023-05-21 02:50:00:
+Customer ID: ES-212512561191
+Start at: 05/25/2023 02:00
+End at: 05/25/2023 04:30
+Booking time: 2.5
+Late time: 0
+Status: Booking
+Total: 62500.0
+--------------------

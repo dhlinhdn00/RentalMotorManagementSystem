@@ -1,0 +1,50 @@
+**Booked at 2023-05-19 17:41:00.357819:
+Booking ID: A190523.2
+Customer ID: ES-212512561191
+Start at: 05/19/2023 17:43
+End at: 05/19/2023 20:43
+Booking time: 3.0
+Late time: 0
+Status: Booking
+Total: 150000.0
+--------------------
+**Auto updated at 2023-05-19 18:13:52.439865:
+Status: Booking -> Processing
+Total: 150000.0 -> 300000.0
+--------------------
+**Booked for M210523.2 at 2023-05-21 02:47:00:
+Customer ID: IN-1245215125
+Start at: 05/21/2023 03:00
+End at: 05/21/2023 05:00
+Booking time: 2.0
+Late time: 0
+Status: Booking
+Total: 100000.0
+--------------------
+**Booked for A210523.3 at 2023-05-21 14:32:00:
+Customer ID: IN-1245215125
+Start at: 05/21/2023 14:45
+End at: 05/21/2023 18:15
+Booking time: 3.5
+Late time: 0
+Status: Booking
+Total: 175000.0
+--------------------
+**Auto updated for A210523.3 at 2023-05-21 14:46:00:
+Status: Booking -> Processing
+Total: 175000.0 -> 350000.0
+--------------------
+**Auto updated for A210523.3 at 2023-05-21 14:46:00:
+Status: Booking -> Processing
+Total: 175000.0 -> 350000.0
+--------------------
+**Completed A210523.3 at 2023-05-21 15:05:00:
+**Adjusted at 2023-05-21 15:05:00:
+Distance:0 -> 500
+Status: Rented -> Ready
+--------------------
+**Completed A210523.3 at 2023-05-21 15:05:00:
+**Adjusted at 2023-05-21 15:05:00:
+Distance:0 -> 500
+Status: Rented -> Ready
+--------------------

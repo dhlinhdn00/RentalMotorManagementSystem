@@ -1,0 +1,18 @@
+**Booked for M200523.2 at 2023-05-20 01:45:50.850838:
+Customer ID: US-4539890189019012
+Start at: 05/20/2023 01:46
+End at: 05/20/2023 04:46
+Booking time: 3.0
+Late time: 0
+Status: Booking
+Total: 142500.0
+--------------------
+**Auto updated for M200523.2 at 2023-05-20 01:46:12.638801:
+Status: Booking -> Processing
+Total: 142500.0 -> 285000.0
+--------------------
+**Completed M200523.2 at 2023-05-20 01:46:52.524592:
+**Adjusted at 2023-05-20 01:46:52.524592:
+Distance:1000 -> 1500
+Status: Rented -> Ready
+--------------------

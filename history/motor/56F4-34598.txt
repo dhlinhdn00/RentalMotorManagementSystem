@@ -1,0 +1,18 @@
+**Booked for M200523.1 at 2023-05-20 01:35:05.959446:
+Customer ID: VN-0395969901
+Start at: 05/20/2023 01:36
+End at: 05/20/2023 05:06
+Booking time: 3.5
+Late time: 0
+Status: Booking
+Total: 113750.0
+--------------------
+**Updated for M200523.1 at 2023-05-20 01:35:41.888245:
+Start at:05/20/2023 01:36 -> 05/20/2023 01:37:00
+Booking Time: 3.5 -> 2.5
+Status: Booking -> Booking
+--------------------
+**Auto updated for M200523.1 at 2023-05-20 01:37:02.155309:
+Status: Booking -> Processing
+Total: 113750.0 -> 162500.0
+--------------------

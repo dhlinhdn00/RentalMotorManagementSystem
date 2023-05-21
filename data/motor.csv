@@ -1,0 +1,23 @@
+0,Name,Brand,Year Of Manufacture,Type,Motor ID,Condition,Distance Traveled,Status,Price,ImagePath,HistoryPath
+1,Blade,Honda,2023,Standard,43K1-22164,Good,1500,Ready,95000,.\image\motor\motor1.jpg,
+2,NMax,Yamaha,2022,Scooter,23H7-55894,Good,1500,Ready,70000,.\image\motor\motor2.jpg,
+3,PCX,Honda,2021,Sport,78G9-45612,Average,1500,Serviced,65000,.\image\motor\motor3.jpg,
+4,Vespa,Piaggio,2022,Adventure,98J3-24512,Good,1500,Serviced,75000,.\image\motor\motor4.jpg,
+5,Liberty,Vespa,2023,Standard,34F6-78963,Average,1500,Serviced,65000,.\image\motor\motor5.jpg,
+6,Fiddle, SYM,2021,Electric,15H2-11111,Average,2000,Rented,60000,.\image\motor\motor6.jpg,
+7,Click,Honda,2022,Scooter,75D4-98123,Average,1500,Ready,55000, .\image\motor\motor7.jpg,
+8,BeAT,Yamaha,2021,Standard,67K5-24155,Average,2000,Ready,50000, .\image\motor\motor8.jpg,
+9,Liberty S,Vespa,2023,Scooter,28J9-12345,Excellent,1500,Ready,70000,.\image\motor\motor9.jpg,
+10,Air Blade,Honda,2022,Scooter,49H8-73201,Good,2500,Ready,95000,.\image\motor\motor10.jpg,
+11,Jet 14,SYM,2021,Sport,56F4-34598,Average,2020,Ready,65000,.\image\motor\motor11.jpg,
+12,Vision,Honda,2022,Scooter,37H5-77890,Average,1500,Ready,55000,.\image\motor\motor12.jpg,
+13,Vario,Yamaha,2023,Scooter,82G1-45678,Good,2500,Ready,70000,.\image\motor\motor13.jpg,.\history\motor\82G1-45678.txt
+14,Liberty ABS,Vespa,2022,Scooter,94J7-74125,Excellent,1500,Ready,80000,.\image\motor\motor14.jpg,
+15,Fino,Yamaha,2023,Sport,61H8-87954,Average,1500,Rented,60000,.\image\motor\motor15.jpg,
+16,S125,Kymco,2021,Adventure,23F6-81234,Good,1500,Ready,75000,.\image\motor\motor16.jpg,
+17,Vibe,SYM,2021,Standard,78K2-45671,Average,1500,Ready,55000,.\image\motor\motor17.jpg,
+18,Sportster,Harley Davidson,2022,Sport,49H1-77777,Bad,1500,Ready,90000,.\image\motor\motor18.jpg,
+19,Super Duke,KTM,2023,Adventure,83L9-23456,Excellent,2500,Ready,100000,.\image\motor\motor19.jpg,
+20,Z900,Kawasaki,2021,Cruiser,32G7-58796,Excellent,1500,Rented,95000,.\image\motor\motor20.jpg,./history/motor/32G7-58796.txt
+21,RagonA3,BayesNaive,1932,Adventure,33L2-291223,Average,1790,Ready,125000,./image/33L2-291223.png,./history/motor/33L2-291223.txt
+22,Ceci,Lamela,2001,Scooter,43K3-129123,Excellent,500,Ready,25000,./image/43K3-129123.png,./history/motor/43K3-129123.txt
